@@ -1,0 +1,13 @@
+:root {
+  --color-green: teal;
+  --color-lightGreen: rgb(68, 175, 175);
+  --color-darkGray: rgb(57, 57, 57);
+  --color-background: azure;
+
+  --searchControl-min-width: 290px;
+}
+
+html {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: var(--color-background);
+}

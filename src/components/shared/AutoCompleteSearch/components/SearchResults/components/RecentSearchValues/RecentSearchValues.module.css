@@ -1,0 +1,18 @@
+.recentSearchValues {
+  margin-top: 1rem;
+}
+
+.recentSearchValues__title {
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.recentSearchValues__list {
+  list-style: none;
+  padding-left: 0.5rem;
+}
+
+.recentSearchValues__list_item {
+  margin-bottom: 0.25rem;
+  font-size: 0.85rem;
+}

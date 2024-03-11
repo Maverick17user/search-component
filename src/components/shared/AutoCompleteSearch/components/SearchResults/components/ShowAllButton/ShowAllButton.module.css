@@ -1,0 +1,7 @@
+.showAllButton {
+  padding-block: 0.75rem;
+  padding-inline: 2rem;
+  text-align: center;
+  cursor: pointer;
+  min-width: var(--searchControl-min-width);
+}

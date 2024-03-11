@@ -1,0 +1,1 @@
+export const SEARCH_VALUE_LENGTH_TO_TRIGGER_SEARCH = 3 as const;

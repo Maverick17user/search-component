@@ -1,0 +1,12 @@
+.addressSearchResult {
+  margin-bottom: 0.75rem;
+}
+
+.addressSearchResult::marker {
+  font-weight: 600;
+}
+
+.addressSearchResult_item {
+  display: inline-block;
+  margin-right: 0.25rem;
+}

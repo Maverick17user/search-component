@@ -1,0 +1,27 @@
+.autoCompleteSearch {
+  width: 100%;
+}
+
+.autoCompleteSearch__label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.autoCompleteSearch__control {
+  min-width: var(--searchControl-min-width);
+  padding-block: 0.5rem;
+  padding-inline: 1rem;
+  border-radius: 8px;
+  border: 2px solid var(--color-green);
+}
+
+.autoCompleteSearch__control:focus {
+  outline: 3px solid var(--color-lightGreen);
+}
+
+.autoCompleteSearch__searchLoadStatus {
+  font-style: italic;
+  color: var(--color-darkGray);
+  margin-left: 1rem;
+}
