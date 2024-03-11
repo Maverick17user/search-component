@@ -1,4 +1,4 @@
-# Exercise 02
+# Exercise
 
 This task is about making a front-end do an autocompletion search.
 
